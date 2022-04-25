@@ -1,6 +1,3 @@
-# Udacity Deep Learning Nanodegree Projects
-
-This is the list of project that I have finsih in  Udacity Deep Learning Nanodegree 
 
 <!-- ABOUT THE PROJECT -->
 ## Predicting Bike-Sharing Patterns
